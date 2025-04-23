@@ -1,2 +1,7 @@
 # testgit
-## 1. git init
+
+
+
+## 安装
+
+```bash
